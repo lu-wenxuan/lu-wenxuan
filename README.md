@@ -3,7 +3,7 @@ I am a software development engineer with over 2 years of professional experienc
 ## Timeline:
 - 2020: Graduated with a bachelor's degree in Computer Science from St. Francis Xavier University.
 - Summer 2020: Interned as a full-stack software developer at One O Eight Integrated Clothing Studio Inc.
-- 2021: Started a 9-month internship in full-stack software development at InCypio.ai.
+- 2021: Full-stack software Engineer at InCypio.ai.
 - 2022: Obtained a Master's degree in Information from the University of Toronto, with a focus on user experience research and design.
 - 2022: Joined the Miaohua team as a frontend engineer.
 
