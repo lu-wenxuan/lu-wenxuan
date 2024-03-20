@@ -5,8 +5,8 @@ I am a software development engineer with over 2 years of professional experienc
 - Summer 2020: Interned as a full-stack software developer at One O Eight Integrated Clothing Studio Inc.
 - 2021: Full-stack software Engineer at InCypio.ai.
 - 2022: Obtained a Master's degree in Information from the University of Toronto, with a focus on user experience research and design.
-- 2022: Joined the Miaohua team as a frontend engineer.
-
+- 2022 - 2023: Joined the SenseMirage team as a Software engineer.
+- 2024 - Now: Joined HongMall as Software Engineer
 
 ## Skills and Expertise:
 - Implemented API interfaces and business data management using cutting-edge Python frameworks.
